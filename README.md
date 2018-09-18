@@ -9,13 +9,13 @@ for this program you should install Opencv with :
 <br><br>
 # Linux DEB:
 
->sudo apt update
->sudo apt install python3-pip
->sudo pip3 install opencv-python
+>$sudo apt update
+>$sudo apt install python3-pip
+>$sudo pip3 install opencv-python
 
 # Windows:
 
->pip install opencv-python
+>c:\pip install opencv-python
 
 or you can use setup.py for this installation!
 
@@ -23,15 +23,15 @@ or you can use setup.py for this installation!
 
 you can see the manual with :
 
->python3 Pyshred.py --help
+>$python3 Pyshred.py --help
 
 or
 
->python3 Pyshred.py -h
+>$python3 Pyshred.py -h
 
 and you can use Pyshred with :
 
->python3 Pyshred.py --Image image.png
+>$python3 Pyshred.py --Image image.png
 
 Be Happy :)
 <br><br>
