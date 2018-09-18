@@ -1,5 +1,5 @@
 # Pyshred ✎
-<img src="https://github.com/lnxpy/Pyshred/blob/master/Pyshred.gif" width="100%">
+<img src="https://github.com/lnxpy/Pyshred/blob/master/textopix.gif" width="50%">
 welcome to Pyshred program!<br>
 <br>
 hi guys!<br>
