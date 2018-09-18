@@ -2,7 +2,7 @@
 welcome to Pyshred program!<br>
 <br>
 hi guys!<br>
-this is Pyshred.. a program that allow you to chop your image with some formulas
+this is Pyshred.. a program that allow you to chop your image with some formulas.<br>
 Pyshred needs Black White image for converting to text files.. so you can use
 coloric pictures or b,w pictures!
 for this program you should install Opencv with : 
