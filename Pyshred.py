@@ -21,6 +21,7 @@ def flick(ui):
         return
     else:
         print('Rep : '+ui+'\'s Inputed!')
+        print('Rep : Exporting..')
     token(img,ui)
 
 def token(image,name):
@@ -32,7 +33,7 @@ def token(image,name):
             file.write(sub(j))
         file.write('\n')
     file.close()
-    print('Rep : Image Converted!')
+    print('Rep : Image Has Exported!')
 
 def parser(nm):
     new = ''
