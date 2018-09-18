@@ -22,6 +22,7 @@ for this program you should install Opencv with :
 or you can use setup.py for this installation!
 
 # USAGE
+<img src="https://github.com/lnxpy/Pyshred/blob/master/Pyshred.gif" width="100%">
 
 you can see the manual with :
 
