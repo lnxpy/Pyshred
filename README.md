@@ -40,7 +40,14 @@ and you can use Pyshred with :
 
 # Example
 
-<img>
+<img src="https://github.com/lnxpy/Pyshred/blob/master/ex.gif" width="100%">
+
+>alan turing
+>dennis ritchie
+>richard stallman
+>linus torvalds
+>guido van rossum
+
 Be Happy :)
 <br><br>
 lnxpylnxpy@gmail.com<br>
