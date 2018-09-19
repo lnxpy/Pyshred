@@ -8,6 +8,7 @@ Pyshred needs Black White image for converting to text files.. so you can use
 coloric pictures or b,w pictures!
 for this program you should install Opencv with : 
 <br><br>
+
 # Linux DEB:
 
 >$sudo apt update
