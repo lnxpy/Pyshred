@@ -38,6 +38,9 @@ and you can use Pyshred with :
 
 >$python3 Pyshred.py --Image image.png
 
+# Example
+
+<img>
 Be Happy :)
 <br><br>
 lnxpylnxpy@gmail.com<br>
