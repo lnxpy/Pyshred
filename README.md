@@ -1,4 +1,4 @@
-# pyshred ✎
+# pyshred
 <img src="https://github.com/lnxpy/Pyshred/blob/master/textopix.gif" width="50%">
 <br>
 
